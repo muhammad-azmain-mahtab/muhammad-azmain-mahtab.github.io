@@ -31,7 +31,7 @@ Secondary School Certificate (SSC) [[Certificate]](https://muhammad-azmain-mahta
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
-<br />
+<br/>
 # Participation and Awards
 <hr>
 * Sub-Reviewer at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
@@ -40,8 +40,9 @@ Duration: 2015 - 2017 <br/>
 * Attended the workshop [AWS Startup Day Bangladesh](https://aws.knowledgevale.com/) organized by Amazon Web Services (2023). [Certificate](https://drive.google.com/file/d/1F3FTTEog7aVlpVwG8Muov3LqIbwS4AzI/view?usp=sharing)
 * General Member at IEEE AUST Student Branch (IASB).
 * General Member at at AUST Innovation and Design Club.
-<br />
-<br />
+<br/>
+
+<br/>
 # Undergraduate Academic projects
 <hr>
 * **University Programming Club Website** - BERT, ASP.NET Core, C#, MSSQL Server (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/AustPIC_official)<br />Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization.
