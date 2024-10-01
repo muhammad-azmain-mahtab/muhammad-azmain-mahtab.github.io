@@ -16,7 +16,7 @@ author_profile: true
 ## Accepted for Publication
 
 * <b>M. A. Mahtab</b>, & J. Maisha. <b>"Automated Financial Report Detection, Classification and Structure Recognition Using YOLO and SLANet"</b>. In 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Sydney, Australia. [[Preprint]](http://dx.doi.org/10.13140/RG.2.2.19451.32803)
-* J. Maisha, <b>M. A. Mahtab</b>, F. H. Swarnali, T. Tabassum, & M. T. R. Shawon. <b>"Safeguarding Music Artists Through Machine Learning Based Singer Classification"</b>. In 2024 IEEE 18th International Conference on Application of Information and Communication Technologies (AICT), Turin, Italy.
+* J. Maisha, <b>M. A. Mahtab</b>, F. H. Swarnali, T. Tabassum, & M. T. R. Shawon. <b>"Safeguarding Music Artists Through Machine Learning Based Singer Classification"</b>. In 2024 IEEE 17th International Scientific Conference on Informatics (Informatics), Poprad, Slovakia.
   
 ## Under Review
 

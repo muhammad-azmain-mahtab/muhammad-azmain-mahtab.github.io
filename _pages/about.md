@@ -30,7 +30,6 @@ I have initiated and led a Machine Learning project at a government institution,
 # Activities 
 
 * <span style="color:Blue"> [October 2, 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
-* <span style="color:Blue"> [October 2, 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [August 23, 2024]  </span> - One paper got accepted at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [August 11, 2024]  </span> - Worked as a Sub-Reviewer at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [August 5, 2024]  </span> - One paper got accepted at [AICT 2024](https://www.aict.info/?csc=2024).
