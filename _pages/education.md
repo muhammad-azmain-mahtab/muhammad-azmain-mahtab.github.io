@@ -9,7 +9,7 @@ redirect_from:
 
 
 # Education
-
+<hr>
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
@@ -33,6 +33,7 @@ Duration: 2015 - 2017 <br/>
 </span>
 <br />
 # Participation and Awards
+<hr>
 * Sub-Reviewer at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
 * Champion - Intra Aust Software Exhibition (2024). [Certificate](https://drive.google.com/file/d/1rfu_A2ey9hoSMlxltG6Rpj_jsCe0kdn2/view?usp=sharing)
 * Achieved Selection for $10,000 AWS Credit Facility - Successfully pitched the incorporation of AI to Automate Event Management, leading to our startup EONE TECHNOLOGIES being one of the 34 Bangladeshi startups shortlisted for a credit facility from Amazon Web Services (AWS).
@@ -42,7 +43,7 @@ Duration: 2015 - 2017 <br/>
 <br />
 <br />
 # Undergraduate Academic projects
-
+<hr>
 * **University Programming Club Website** - BERT, ASP.NET Core, C#, MSSQL Server (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/AustPIC_official)<br />Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization.
 * **Vacation Home Rental Distributed Database System** - Oracle (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/Vacation-Home-Rental-System)
 * **Basic C Language Compiler** - C++ (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/C-language-Compiler)

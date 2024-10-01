@@ -5,7 +5,7 @@ title: ""
 ---
 
 ## Professional Experience
-
+<hr>
 + <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Intern (IT/ML) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/FRC_certificate.jpg)</span><br/>
 Standard Settings Division<br/>
