@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<b>Areas of Interests:</b>:
+<b>Areas of Interests:</b>
 * Computer Vision
 * Natural Language Processing
 * Large Language Models
