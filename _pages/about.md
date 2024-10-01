@@ -12,12 +12,13 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Muhammad Azmain Mahtab, an aspiring researcher. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Computer Vision, Natural Language Processing, Large Language Models, Contrastive Learning, Deep Learning Applications, and Speech Processing.<br /><br/>
-
+I am Muhammad Azmain Mahtab, an aspiring researcher. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Computer Vision, Natural Language Processing, Large Language Models, Contrastive Learning, Speech Processing, and Deep Learning Applications.
+<br />
+<br/>
 I have initiated and led a Machine Learning project at a government institution, <a href="https://frc.gov.bd/">Financial Reporting Council (FRC)</a>, utilizing computer vision and optical character recognition on the finance field automating a real life task. I also wrote a paper on it.
 
 </div>
-
+<br/>
 
 **For additional information, please see my [Research Work](https://muhammad-azmain-mahtab.github.io/research/).**
 

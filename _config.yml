@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "round_pic.png"
   name             : "Muhammad Azmain Mahtab"
   pronouns         : # example: "she/her"  
   bio              : "Researcher || Computer Vision, NLP, LLMs & Contrastive Learning"
