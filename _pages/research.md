@@ -20,8 +20,8 @@ author_profile: true
   
 ## Under Review
 
-* <b>M. A. Mahtab</b>, J. Maisha, M. M. Rahman, & S. K. S. Joy. "An Empirical Study on Utilizing Large Language Models for Bengali Image Caption Generation". In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
-* F. H. Swarnali, J. Maisha, <b>M. A. Mahtab</b>, M. S. I. Iftikar, & F. M. Shah. "Bengali Multi-class Text Classification via Enhanced Contrastive Learning Techniques". In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
+* <b>M. A. Mahtab</b>, J. Maisha, M. M. Rahman, & S. K. S. Joy. <b>"An Empirical Study on Utilizing Large Language Models for Bengali Image Caption Generation"</b>. In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
+* F. H. Swarnali, J. Maisha, <b>M. A. Mahtab</b>, M. S. I. Iftikar, & F. M. Shah. <b>"Bengali Multi-class Text Classification via Enhanced Contrastive Learning Techniques"</b>. In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
 
 ## Ongoing Works
 
