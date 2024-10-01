@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
 permalink: /experience/
+title: ""
 ---
 
 ## Professional Experience
