@@ -28,7 +28,7 @@ author_profile: true
 * Spam Detection using Contrastive Approaches.
 * Largest Native Bengali image-caption pair Dataset.
 * Plagarism Detection for Old Bengali Songs.
-* Sub Dialect Detection and Machine Translation for Bengali Language
+* Sub Dialect Detection and Machine Translation for Bengali Language.
 * Bengali Social Media Post Text Summarization.
 * LLMs for Financial Report Analysis.
 
