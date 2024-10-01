@@ -40,7 +40,6 @@ Duration: 2015 - 2017 <br/>
 * Attended the workshop [AWS Startup Day Bangladesh](https://aws.knowledgevale.com/) organized by Amazon Web Services (2023). [Certificate](https://drive.google.com/file/d/1F3FTTEog7aVlpVwG8Muov3LqIbwS4AzI/view?usp=sharing)
 * General Member at IEEE AUST Student Branch (IASB).
 * General Member at at AUST Innovation and Design Club.
-
 <br/>
 # Undergraduate Academic projects
 <hr>
