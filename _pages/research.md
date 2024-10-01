@@ -15,7 +15,7 @@ author_profile: true
   
 ## Accepted for Publication
 
-* <b>M. A. Mahtab</b>, & J. Maisha. <b>"Automated Financial Report Detection, Classification and Structure Recognition Using YOLO and SLANet"</b>. In 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Sydney, Australia.
+* <b>M. A. Mahtab</b>, & J. Maisha. <b>"Automated Financial Report Detection, Classification and Structure Recognition Using YOLO and SLANet"</b>. In 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Sydney, Australia. [[Preprint]](http://dx.doi.org/10.13140/RG.2.2.19451.32803)
 * J. Maisha, <b>M. A. Mahtab</b>, F. H. Swarnali, T. Tabassum, & M. T. R. Shawon. <b>"Safeguarding Music Artists Through Machine Learning Based Singer Classification"</b>. In 2024 IEEE 18th International Conference on Application of Information and Communication Technologies (AICT), Turin, Italy.
   
 ## Under Review
@@ -26,8 +26,10 @@ author_profile: true
 ## Ongoing Works
 
 * Spam Detection using Contrastive Approaches.
+* Largest Native Bengali image-caption pair Dataset.
 * Plagarism Detection for Old Bengali Songs.
 * Sub Dialect Detection and Machine Translation for Bengali Language
 * Bengali Social Media Post Text Summarization.
+* LLMs for Financial Report Analysis.
 
 __________________________________________________
