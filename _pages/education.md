@@ -15,7 +15,7 @@ redirect_from:
 Bachelor of Science (B.Sc.) in Computer Science and Engineering <br/>
 CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) <br/>
 Duration: 2020 - 2024 <br/>
-Thesis Supervisor: <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/>Thesis Title: Bengali Image Captioning Using Deep Learning Methods<br/>Thesis Summary: Implemented DL approaches such as, fine-tuning pre-trained GPT-2 decoder using clip encoder prefix, vision transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods etc. for Bengali image captioning using our custom native Bengali dataset containing 40,000 human annotated captions.
+<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/></b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/></b>Thesis Summary:</b> Implemented DL approaches such as, fine-tuning pre-trained GPT-2 decoder using clip encoder prefix, vision transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods etc. for Bengali image captioning using our custom native Bengali dataset containing 40,000 human annotated captions.
 <br/>
 
 <span style="font-family:Georgia; color:black;">
@@ -31,7 +31,7 @@ Secondary School Certificate (SSC) <br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
-<br /> 
+<br />
 # Participation and Awards
 * Sub-Reviewer at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
 * Champion - Intra Aust Software Exhibition (2024). [Certificate](https://drive.google.com/file/d/1rfu_A2ey9hoSMlxltG6Rpj_jsCe0kdn2/view?usp=sharing)
@@ -39,7 +39,8 @@ Duration: 2015 - 2017 <br/>
 * Attended the workshop [AWS Startup Day Bangladesh](https://aws.knowledgevale.com/) organized by Amazon Web Services (2023). [Certificate](https://drive.google.com/file/d/1F3FTTEog7aVlpVwG8Muov3LqIbwS4AzI/view?usp=sharing)
 * General Member at IEEE AUST Student Branch (IASB)
 * General Member at at AUST Innovation and Design Club
-<br /> 
+<br />
+<br />
 # Academic projects
 *  University Programming Club Website | BERT, ASP.NET Core, C#, MSSQL Server | 2023 <!-- Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization. -->
 * Vacation Home Rental Distributed Database System | Oracle | 2023
