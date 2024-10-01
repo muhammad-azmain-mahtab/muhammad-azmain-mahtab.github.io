@@ -12,7 +12,7 @@ redirect_from:
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-Bachelor of Science (B.Sc.) in Computer Science and Engineering <br/>
+Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
 CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) <br/>
 Duration: 2020 - 2024 <br/>
 <b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Summary:</b> Implemented DL approaches such as, fine-tuning pre-trained GPT-2 decoder using clip encoder prefix, vision transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods etc. for Bengali image captioning using our custom native Bengali dataset containing 40,000 human annotated captions.
@@ -20,14 +20,14 @@ Duration: 2020 - 2024 <br/>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://gccc.edu.bd/" target="_blank">Government City College, Chattrogram</a></b></span><br/>
-Higher Secondary Certificate (HSC) <br/>
+Higher Secondary Certificate (HSC) [[Certificate]]()<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2017 - 2019 <br/>
 </span>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://ctgcs.edu.bd/" target="_blank">Chittagong Collegiate School</a></b></span><br/>
-Secondary School Certificate (SSC) <br/>
+Secondary School Certificate (SSC) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/SSC_certificate.jpg)<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
