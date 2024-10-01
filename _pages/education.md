@@ -43,15 +43,15 @@ Duration: 2015 - 2017 <br/>
 <br />
 # Academic projects
 
-* University Programming Club Website | BERT, ASP.NET Core, C#, MSSQL Server | 2023 <!-- Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization. -->
-* Vacation Home Rental Distributed Database System | Oracle | 2023
-* Basic C Language Compiler | C++ | 2023
-* Smart Vacuum Cleaner Robot | Arduino Uno | 2023
-* Tours and Travel Website | HTML, CSS, Bootstrap, PHP, MySQL | 2022 <!-- Keywords: Book & cancel tours, Admin panel, User ratings, Tour availability, Search & sort tours. -->
-* Payroll Management Application | Java Swing, MSSQL Server | 2022 <!-- Keywords: User roles, Shift, Leave, Overtime, Attendance, Deductions, Advance, Allowance, Generate Payslip. -->
-* Android Food Delivery Application (user end) | Android Studio, Kotlin, Firebase | 2022 <!-- Keywords: Dynamic cart, Cart single shop constraint, Location based shop availibility & delivery costs. -->
-* Portfolio Website | HTML, CSS, Bootstrap, JavaScript | 2021
-* Online Computer Shop Application | JAVA FX, MySQL | 2021
-* 2D Platformer Game | iGraphics Library, C++ | 2021
+* University Programming Club Website | BERT, ASP.NET Core, C#, MSSQL Server (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/AustPIC_official)<br />Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization.
+* Vacation Home Rental Distributed Database System | Oracle (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/Vacation-Home-Rental-System)
+* Basic C Language Compiler | C++ (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/C-language-Compiler)
+* Smart Vacuum Cleaner Robot | Arduino Uno (2023)
+* Tours and Travel Website | HTML, CSS, Bootstrap, PHP, MySQL (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/Tours-And-Travel-Website)<br />Keywords: Book & cancel tours, Admin panel, User ratings, Tour availability, Search & sort tours.
+* Payroll Management Application | Java Swing, MSSQL Server (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/PayrollManagementSoftware)<br />Keywords: User roles, Shift, Leave, Overtime, Attendance, Deductions, Advance, Allowance, Generate Payslip.
+* Android Food Delivery Application (user end) | Android Studio, Kotlin, Firebase (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/HelloFood)<br />Keywords: Dynamic cart, Cart single shop constraint, Location based shop availibility & delivery costs.
+* Portfolio Website | HTML, CSS, Bootstrap, JavaScript (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/Portfolio-Website)
+* Online Computer Shop Application | JAVA FX, MySQL (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/OneClickComputers)
+* 2D Platformer Game | iGraphics Library, C++ (2022)
 
 ___________________________________________
