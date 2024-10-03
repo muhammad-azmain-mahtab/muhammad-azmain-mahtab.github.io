@@ -16,17 +16,20 @@ author_profile: true
 ## Accepted for Publication
 <hr>
 * <b>M. A. Mahtab</b>, & J. Maisha. <b>"Automated Financial Report Detection, Classification and Structure Recognition Using YOLO and SLANet"</b>. In 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Sydney, Australia. [[Preprint]](http://dx.doi.org/10.13140/RG.2.2.19451.32803)
-* J. Maisha, <b>M. A. Mahtab</b>, F. H. Swarnali, T. Tabassum, & M. T. R. Shawon. <b>"Safeguarding Music Artists Through Machine Learning Based Singer Classification"</b>. In 2024 IEEE 17th International Scientific Conference on Informatics (Informatics), Poprad, Slovakia.
+* J. Maisha, <b>M. A. Mahtab</b>, F. H. Swarnali, T. Tabassum, & M. T. R. Shawon. <b>"Safeguarding Music Artists Through Machine Learning Based Singer Classification"</b>. In 2024 IEEE 17th International Scientific Conference on Informatics (Informatics), Poprad, Slovakia. [[Preprint]](http://dx.doi.org/10.13140/RG.2.2.31083.55849)
   
 ## Under Review
 <hr>
 * <b>M. A. Mahtab</b>, J. Maisha, M. M. Rahman, & S. K. S. Joy. <b>"An Empirical Study on Utilizing Large Language Models for Bengali Image Caption Generation"</b>. In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
 * F. H. Swarnali, J. Maisha, <b>M. A. Mahtab</b>, M. S. I. Iftikar, & F. M. Shah. <b>"Bengali Multi-class Text Classification via Enhanced Contrastive Learning Techniques"</b>. In 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.
 
-## Ongoing Works
+## Ongoing Research
 <hr>
-* Spam Detection using Contrastive Approaches.
-* Largest Native Bengali image-caption pair Dataset.
+* BN-COCO Bengali Image Captions: A Multi-Purpose Dataset and GAN based Captioning System using Supervised and Unsupervised Learning.
+* Explainable Spam Review Classification utilizing Language Models and Contrastive Learning.
+
+## Research In Early Stage
+<hr>
 * Plagarism Detection for Old Bengali Songs.
 * Sub Dialect Detection and Machine Translation for Bengali Language.
 * Bengali Social Media Post Text Summarization.

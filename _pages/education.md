@@ -15,7 +15,7 @@ redirect_from:
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
 CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) <br/>
 Duration: 2020 - 2024 <br/>
-<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Summary:</b> Implemented DL approaches such as, fine-tuning pre-trained GPT-2 decoder using clip encoder prefix, vision transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods etc. for Bengali image captioning using our custom native Bengali dataset containing 40,000 human annotated captions.
+<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
 <br/>
 
 <span style="font-family:Georgia; color:black;">
