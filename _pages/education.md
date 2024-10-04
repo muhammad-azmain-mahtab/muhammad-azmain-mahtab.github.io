@@ -15,7 +15,7 @@ redirect_from:
 Bachelor of Science (B.Sc.) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>Computer Science and Engineering<br/>
 CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) [[Transcript]](https://muhammad-azmain-mahtab.github.io/files/BSC-Transcript.pdf)<br/>
 Duration: 2020 - 2024 <br/>
-<b>Thesis:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Supervisor:</b> <a style="text-decoration:none;" style="color:brown;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
+<b>Thesis:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Supervisor:</b> <a style="text-decoration:none; color:brown;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
 <br/>
 
 <span style="font-family:Georgia; color:black;">
