@@ -10,16 +10,16 @@ redirect_from:
 
 # Education
 <hr>
-<span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
+<span style="text-decoration:none;font-family:Georgia; color:black;">
+<span style="text-decoration:none;color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
+Bachelor of Science (B.Sc.) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>Computer Science and Engineering<br/>
 CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) [[Transcript]](https://muhammad-azmain-mahtab.github.io/files/BSC-Transcript.pdf)<br/>
 Duration: 2020 - 2024 <br/>
-<b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a>, Lecturer Grade-I, Dept. of CSE, AUST<br/><b>Thesis Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
+<b>Thesis:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
 <br/>
 
-<span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://gccc.edu.bd/" target="_blank">Government City College, Chattrogram</a></b></span><br/>
+<span style="text-decoration:none;font-family:Georgia; color:black;">
+<span style="text-decoration:none;color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://gccc.edu.bd/" target="_blank">Government City College, Chattrogram</a></b></span><br/>
 Higher Secondary Certificate (HSC) [[Certificate]]()<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2017 - 2019 <br/>
