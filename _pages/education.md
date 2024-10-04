@@ -13,9 +13,9 @@ redirect_from:
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
-CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) <br/>
+CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) [[Transcript]](https://muhammad-azmain-mahtab.github.io/files/BSC-Transcript.pdf)<br/>
 Duration: 2020 - 2024 <br/>
-<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
+<b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a>, Lecturer Grade-I, Dept. of CSE, AUST<br/><b>Thesis Summary:</b> Proven effectiveness of fine-tuning pre-trained GPT-2 decoder using CLIP image encoder generated prefix over Vision Transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods for Bengali image captioning using our custom native Bengali dataset containing approximately 8,000 local images and 40,000 human annotated captions.
 <br/>
 
 <span style="font-family:Georgia; color:black;">
@@ -34,12 +34,13 @@ Duration: 2015 - 2017 <br/>
 <br/>
 # Participation and Awards
 <hr>
-* Sub-Reviewer at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
-* Champion - Intra Aust Software Exhibition (2024). [Certificate](https://drive.google.com/file/d/1rfu_A2ey9hoSMlxltG6Rpj_jsCe0kdn2/view?usp=sharing)
-* Achieved Selection for $10,000 AWS Credit Facility - Successfully pitched the incorporation of AI to Automate Event Management, leading to our startup EONE TECHNOLOGIES being one of the 34 Bangladeshi startups shortlisted for a credit facility from Amazon Web Services (AWS).
+* **Champion**, Intra AUST Software Exhibition (2024). [Certificate](https://drive.google.com/file/d/1rfu_A2ey9hoSMlxltG6Rpj_jsCe0kdn2/view?usp=sharing)
+* **Full Fee Waiver Award**, 2024 IEEE 17th International Scientific Conference on Informatics (Informatics).
+* **Sub-Reviewer**, 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
+* **AWS Credit Facility Selection**, Our startup EONE TECHNOLOGIES one of 34 Bangladeshi startups shortlisted for $10,000 AWS credit for our AI-driven event management automation pitch.
 * Attended the workshop [AWS Startup Day Bangladesh](https://aws.knowledgevale.com/) organized by Amazon Web Services (2023). [Certificate](https://drive.google.com/file/d/1F3FTTEog7aVlpVwG8Muov3LqIbwS4AzI/view?usp=sharing)
-* General Member at IEEE AUST Student Branch (IASB).
-* General Member at at AUST Innovation and Design Club.
+* General Member, IEEE AUST Student Branch (IASB).
+* General Member, AUST Innovation and Design Club.
 
 <br/>
 # Undergraduate Academic projects
