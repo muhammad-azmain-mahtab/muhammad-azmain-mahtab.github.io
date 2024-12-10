@@ -29,7 +29,8 @@ I have initiated and led a Machine Learning project at a government institution,
 
 # Activities 
 
-* <span style="color:Blue"> [November 22, 2024]  </span> - Presented a paper at accepted at [FMLDS 2024](https://fmlds.org/).
+* <span style="color:Blue"> [November 22, 2024]  </span> - Presented a paper at [FMLDS 2024](https://fmlds.org/).
+* <span style="color:Blue"> [November 15, 2024]  </span> - Presented a paper at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [October 2, 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [August 23, 2024]  </span> - One paper got accepted at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [August 11, 2024]  </span> - Worked as a Reviewer at [FMLDS 2024](https://fmlds.org/).
