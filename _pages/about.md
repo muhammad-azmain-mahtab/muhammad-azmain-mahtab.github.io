@@ -29,9 +29,10 @@ I have initiated and led a Machine Learning project at a government institution,
 
 # Activities 
 
+* <span style="color:Blue"> [November 22, 2024]  </span> - Presented a paper at accepted at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [October 2, 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [August 23, 2024]  </span> - One paper got accepted at [FMLDS 2024](https://fmlds.org/).
-* <span style="color:Blue"> [August 11, 2024]  </span> - Worked as a Sub-Reviewer at [FMLDS 2024](https://fmlds.org/).
+* <span style="color:Blue"> [August 11, 2024]  </span> - Worked as a Reviewer at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [August 5, 2024]  </span> - One paper got accepted at [AICT 2024](https://www.aict.info/?csc=2024).
 * <span style="color:Blue"> [July 8, 2024]  </span> - Completed my internship at [Financial Reporting Council (FRC)](https://frc.gov.bd/).
 * <span style="color:Blue"> [April 23, 2024]  </span> - Completed 4 year program for the degree of Bachelor of Science in Computer Science and Engineering from [Ahsanullah University of Science and Technology](http://aust.edu/).

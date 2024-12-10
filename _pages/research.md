@@ -5,14 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 <b>Areas of Interests:</b>
-* Computer Vision
+* Machine Learning and Deep Learning Applications
 * Natural Language Processing
 * Large Language Models
-* Contrastive Learning
-* Generative Adversarial Network
-* Speech Processing
-* Deep Learning Applications
-  
+* Computer Vision
+* Vision Language Models
+
 ## Accepted for Publication
 <hr>
 * <a style="text-decoration: none">M. A. Mahtab</a>, & J. Maisha. <b>"Automated Financial Report Detection, Classification and Structure Recognition Using YOLO and SLANet"</b>. In 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Sydney, Australia. [[Preprint]](http://dx.doi.org/10.13140/RG.2.2.19451.32803) [[Acceptance Email]](https://drive.google.com/file/d/18XNKOY6Ll826sQoH7AaIOsk1XzEHTRF8/view?usp=sharing) 
