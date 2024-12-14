@@ -39,11 +39,14 @@ I have initiated and led a Machine Learning project at a government institution,
 * <span style="color:Blue"> [April 23, 2024]  </span> - Completed 4 year program for the degree of Bachelor of Science in Computer Science and Engineering from [Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [April 17, 2024]  </span> - Successfully defended my [B.Sc. Thesis](https://muhammad-azmain-mahtab.github.io/files/BSC Thesis.pdf).
 * <span style="color:Blue"> [January 8, 2024]  </span> - Joined [Financial Reporting Council (FRC)](https://frc.gov.bd/) as an Intern (IT/ML).
+
+
 -----------
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 <br/>
 <br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=0dMx7xJr2Z5ZCDgXqDhqkpaMrxG4So-b0jgP_6HfghI&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=450&t=tt&d=0dMx7xJr2Z5ZCDgXqDhqkpaMrxG4So-b0jgP_6HfghI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
 
 -----------
 
