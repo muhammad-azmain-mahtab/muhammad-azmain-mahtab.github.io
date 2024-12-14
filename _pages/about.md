@@ -41,7 +41,8 @@ I have initiated and led a Machine Learning project at a government institution,
 * <span style="color:Blue"> [January 8, 2024]  </span> - Joined [Financial Reporting Council (FRC)](https://frc.gov.bd/) as an Intern (IT/ML).
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
-
+<br/>
+<br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0dMx7xJr2Z5ZCDgXqDhqkpaMrxG4So-b0jgP_6HfghI'></script>
 
 -----------
