@@ -29,6 +29,9 @@ I have initiated and led a Machine Learning project at a government institution,
 
 # Activities 
 
+* <span style="color:Blue"> [December 28, 2024]  </span> - Won Best Technical Presentation of the Session at [ICCIT 2024](https://iccit.org.bd/).
+* <span style="color:Blue"> [December 22, 2024]  </span> - Presented two papers at [ICCIT 2024](https://iccit.org.bd/).
+* <span style="color:Blue"> [November 28, 2024]  </span> - Two papers got accepted at [ICCIT 2024](https://iccit.org.bd/).
 * <span style="color:Blue"> [November 22, 2024]  </span> - Presented a paper at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [November 15, 2024]  </span> - Presented a paper at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [October 2, 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
