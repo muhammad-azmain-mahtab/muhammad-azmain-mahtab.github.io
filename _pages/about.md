@@ -40,7 +40,8 @@ I have initiated and led a Machine Learning project at a government institution,
 * <span style="color:Blue"> [August 5, 2024]  </span> - One paper got accepted at [AICT 2024](https://www.aict.info/?csc=2024).
 * <span style="color:Blue"> [July 8, 2024]  </span> - Completed my internship at [Financial Reporting Council (FRC)](https://frc.gov.bd/).
 * <span style="color:Blue"> [April 23, 2024]  </span> - Completed 4 year program for the degree of Bachelor of Science in Computer Science and Engineering from [Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [April 17, 2024]  </span> - Successfully defended my [B.Sc. Thesis](https://muhammad-azmain-mahtab.github.io/files/BSC Thesis.pdf).
+* <span style="color:Blue"> [April 17, 2024]  </span> - Successfully defended my B.Sc. Thesis.
+<!-- * <span style="color:Blue"> [April 17, 2024]  </span> - Successfully defended my [B.Sc. Thesis](https://muhammad-azmain-mahtab.github.io/files/BSC Thesis.pdf). -->
 * <span style="color:Blue"> [January 8, 2024]  </span> - Joined [Financial Reporting Council (FRC)](https://frc.gov.bd/) as an Intern (IT/ML).
 
 
