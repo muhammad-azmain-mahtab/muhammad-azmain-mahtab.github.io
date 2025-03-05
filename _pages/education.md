@@ -13,7 +13,7 @@ redirect_from:
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a style="text-decoration:none;" href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSc Certificate Muhammad Azmain Mahtab.pdf)<br/>Computer Science and Engineering<br/>
-CGPA: <b>3.571/4.00</b> (3.652 in the last 3 semesters) [[Transcript]](https://muhammad-azmain-mahtab.github.io/files/BSc Transcript Muhammad Azmain Mahtab.pdf)<br/>
+CGPA: <b>3.571/4.00</b> (3.652 in the last 3 semesters)<br/>
 Duration: 2020 - 2024 <br/>
 <b>Thesis:</b> Bengali Image Captioning Using Deep Learning Methods<br/>
 <!-- <b>Supervisor:</b> <a style="text-decoration:none; color:Black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman, Assistant Professor</a><br/> -->
