@@ -29,7 +29,7 @@ Duration: 2017 - 2019 <br/>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a style="text-decoration:none;" href="https://ctgcs.edu.bd/" target="_blank">Chittagong Collegiate School</a></b></span><br/>
-Secondary School Certificate (SSC) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/SSC_certificate.jpg)<br/>
+Secondary School Certificate (SSC) [[Certificate]]()<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
